@@ -40,9 +40,9 @@ learn by using your intuition that certain Hogwarts Myers Briggs (don't worry it
 personality types "mesh" well with certain houses.  You will also notice that the previous sorting hat was pretty
 terrible at it's job.
 
-Your task is to read in and analyze your unique `grades.csv` file. Wrangle your data so that you can adequately train
-your classifier to place students in a house they are a best fit for. Read in `student_house_2016.csv` file and
-add a `house` column to it and output it back to `student_house_2016.csv`.
+Your task is to read in and analyze your unique `_dataset.csv` file. Wrangle your data so that you can adequately train
+your classifier to place students in a house they are a best fit for. Read in `_students_2016.csv` file and
+add a `house` column to it and output it back to `_students_2016.csv`.
 
 Use whatever methods you can find to best train and validate your classifiers are as awesome as they need to be. There
 is no kaggle style automated score checking so have confidence in your classifier!
