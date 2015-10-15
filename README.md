@@ -1,3 +1,4 @@
+# ZAAAAAAAACH!
 # Hogwarts Sorting Hat
 
 ## Description
