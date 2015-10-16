@@ -50,3 +50,4 @@ is no kaggle style automated score checking so have confidence in your classifie
 ## Hard Mode
 
 There is no hard mode for the assignment.
+Oh no!!
